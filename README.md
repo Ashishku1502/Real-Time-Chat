@@ -127,4 +127,3 @@ If the server fails to start with `EADDRINUSE`, another process is using port 30
 - **Frontend**: Vanilla JS, Glassmorphism CSS
 - **Fonts**: Syne, DM Sans, DM Mono
 
-# Real-Time-Chat
